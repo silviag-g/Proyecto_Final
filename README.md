@@ -8,11 +8,17 @@ Get a submission file with the prediction of forecasting sales for Wallmart. Thi
 ENV:
 
 Python 
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Sklearn
+
 Spicy
 
 
