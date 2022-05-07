@@ -1,4 +1,5 @@
 # Proyecto_Final
+![image](https://user-images.githubusercontent.com/91553091/167239905-06751d3f-51b7-4d14-a95f-84510eedfe70.png)
 
 OBJECTIVES:
 Get a submission file with the prediction of forecasting sales for Wallmart. This submission file would be save in as a csv (in our folder).
