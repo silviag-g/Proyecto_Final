@@ -1,11 +1,13 @@
 # Proyecto_Final
 ![image](https://user-images.githubusercontent.com/91553091/167239905-06751d3f-51b7-4d14-a95f-84510eedfe70.png)
 
-OBJECTIVES:
+
+## **OBJECTIVES:**
 
 Get a submission file with the prediction of forecasting sales for Wallmart. This submission file would be save in as a csv (in our folder).
 
-ENV:
+
+## **ENV:**
 
 Python 
 
@@ -23,7 +25,8 @@ Spicy
 
 
 
-CODE: 
+
+## **CODE:**
 
 Download the data from Kaggle, there were 4 different files to download (feature, stores, train and test).
 
